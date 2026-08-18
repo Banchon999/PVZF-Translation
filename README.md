@@ -30,7 +30,7 @@ The download links for the Multi-language Mod and the translation files of the M
 >
 > Looking to play the Multi-Language on Linux? [Click Here](https://discord.com/channels/1320410104587227147/1320555521744437258) **(NOTE: You'll have to join our [Discord Server](https://discord.gg/DPAC5ZVJ8T) to read this guide!)**
 
-The Multi-Language version supports the following languages: **English**, **Chinese (Simplified)**, **Indonesian**, **French**, **Spanish**, ***Vietnamese**, **Japanese**, **Ukrainian**, **Romanian** and **Korean**. Other contained languages are empty for the moment.
+The Multi-Language version supports the following languages: **English**, **Chinese (Simplified)**, **Indonesian**, **French**, **Spanish**, ***Vietnamese**, **Japanese**, **Ukrainian**, **Romanian**, **Thai** and **Korean**. Other contained languages are empty for the moment.
 
 	Up-to-date 3.8.1 - English, Korean
 	Last Updated 3.7 - Indonesian, Vietnamese
@@ -38,6 +38,7 @@ The Multi-Language version supports the following languages: **English**, **Chin
 	Last Updated 3.4.2 - Ukrainian
 	Gradually updating - French, Japanese
 	Last Updated 3.3.1 - Romanian
+	New (AI-assisted draft, needs native-speaker review) - Thai
 
 	Languages below have been removed due to a lack of updates.
 	Last Updated 2.6.1 - Russian 
@@ -111,6 +112,7 @@ Japanese | AnnieTGM | devilzwawa, Ryna (Marina), Mamoru-kun
 Korea | fumufumolover, 취미로 놀고 먹는 사람 | 설이 , ATMnou
 Ukrainian | Easter Wolf |
 Romanian | Rykon-V73 |
+Thai | No active translator (AI-assisted draft, needs review) | 
 
 This language team has a detailed contribution report : 
 
